@@ -1,0 +1,7 @@
+# Data files tend to be really large so lets ignore them
+# First Course
+*.csv
+*.xlsx
+*.xls
+
+
